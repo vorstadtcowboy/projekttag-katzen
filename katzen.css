@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+  border: 1px solid red;
+  width: 600px;
+  padding: 5px;
+  margin: auto;
+}
+
+.catbox {
+  border: 1px solid black;
+  display: flex;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 50%;
+}
+
+.textbox {
+  padding: 0 5px;
+}
+
+#zweite {
+  padding-left: 0;
+}
